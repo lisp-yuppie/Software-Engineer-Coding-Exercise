@@ -1,9 +1,9 @@
-Edyt Software Engineer Coding Exercise
-=======================================
+Software Engineer Coding Exercise
+==================================
 
 Do not spend more than four hours on this.  If you do not finish, submit what you have with a description of what you would do to finish.
 
-Your submission will be evaluated according to correctness, simplicity and elegance.
+Your submission will be evaluated according to correctness, simplicity, elegance and code quality.
 
 Although you can use whatever tools, languages, and frameworks you like, we highly recommend Python and/or JavaScript.
 
