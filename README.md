@@ -29,11 +29,11 @@ You must return to us the completed assignment as a git repo.  The repo
 must be self-contained: it must contain everything required to run your
 code (compilers, libraries, frameworks).  You can assume the following:
 
-* Your submission will be run on CentOS 6.5 or Ubuntu 14 (either is fine, it doesn't have to work on both);
-* Python 2.7.6 is pre-installed;
-* [Pip 1.5.x](https://pypi.python.org/pypi/pip/1.5.6) is pre-installed;
-* [Node 0.10.x](http://nodejs.org/download/) is pre-installed; and
-* NPM 1.4.x is pre-installed.
+* Your submission will be run on OS X 10.11;
+* Python 3.4 is pre-installed;
+* [Pip 1.5+](https://pypi.python.org/pypi/pip/1.5.6) is pre-installed;
+* [Node 6.9](http://nodejs.org/download/) is pre-installed; and
+* NPM 3.10 is pre-installed.
 
 The repo must contain a top-level script called "run" that does everything required to install, setup and run your assigment.
 
