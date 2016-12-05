@@ -37,7 +37,7 @@ code (compilers, libraries, frameworks).  You can assume the following:
 
 The repo must contain a top-level script called "run" that does everything required to install, setup and run your assigment.
 
-The resulting repo must be emailed to [shandley@edyt.com](mailto:shandley@edyt.com).  You have two choices: One, you can package the repo up as a .tgz or .zip file and attach this to the email.  Or, two, you can put it on GitHub, make sure the permissions are correct, and email the link instead.
+The resulting repo must be emailed to [shandley@castlighthealth.com](mailto:shandley@castlighthealth.com).  You have two choices: One, you can package the repo up as a .tgz or .zip file and attach this to the email.  Or, two, you can put it on GitHub, make sure the permissions are correct, and email the link instead.
 
 We will evaluate your submission as follows:
 
